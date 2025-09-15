@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "axios": "^1.11.0",
+    "easyrapid_notes": "file:..",
     "lucide-react": "^0.543.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

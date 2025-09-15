@@ -1,0 +1,21 @@
+{
+  "name": "easyrapid_notes",
+  "version": "1.0.0",
+  "description": "EasyRapid Notes is a full-stack note-taking web application built with React (frontend) and Express + MongoDB (backend). It enables users to create, organize, and manage notes seamlessly in a clean, responsive interface.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1khushibarnwal/EasyRapid_Notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1khushibarnwal/EasyRapid_Notes/issues"
+  },
+  "homepage": "https://github.com/1khushibarnwal/EasyRapid_Notes#readme"
+}
